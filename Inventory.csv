@@ -1,0 +1,3 @@
+Asset_ID,Device_Name,Location,Status
+101,Core-Switch-01,DataCenter-A,Active
+102,SG-DNS-Root-01,DataCenter-B,Active
